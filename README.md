@@ -14,3 +14,5 @@ More about this nano degree can be found on https://www.udacity.com/course/deep-
 ### Course-wise projects
 #### Neural Networks
 - [Predicting Bike-sharing Patterns](https://github.com/chaitanyakasaraneni/udacity_deeplearning_nanodegee/tree/master/project-bikesharing)
+#### Convolutional Neural Networks
+- [Dog breed classification project](https://github.com/chaitanyakasaraneni/udacity_deeplearning_nanodegee/tree/master/project-dog-classification)
