@@ -8,4 +8,4 @@ The project is broken down into a series of tasks from loading in data to defini
 ### Dataset
 The dataset used in this project is [CelebA dataset](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip). This dataset is more complex than the number datasets (like MNIST or SVHN) so deeper networks were defined and trained for a longer time to get good results.
 
-*Note: If the link dosen't work use [this link](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+*Note: If the link dosen't work use [this link](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)*
