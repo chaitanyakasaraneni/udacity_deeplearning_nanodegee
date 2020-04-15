@@ -18,3 +18,5 @@ More about this nano degree can be found on https://www.udacity.com/course/deep-
 - [Dog breed classification](https://github.com/chaitanyakasaraneni/udacity_deeplearning_nanodegee/tree/master/project-dog-classification)
 #### Recurrent Neural Networks
 - [TV Script Generation](https://github.com/chaitanyakasaraneni/udacity_deeplearning_nanodegee/tree/master/project-tv-script-generation)
+#### Generative Adversarial Networks
+- [Face Generation](https://github.com/chaitanyakasaraneni/udacity_deeplearning_nanodegee/tree/master/project-face-generation)
