@@ -17,7 +17,7 @@ This repository consists of my Udacity Deep Learning Nano Degree Project Submiss
 
 More about this nano degree can be found on https://www.udacity.com/course/deep-learning-nanodegree--nd101
 
-### Course-wise projects
+### Course-wise projects<a name="projects"></a>
 #### Neural Networks
 - [Predicting Bike-sharing Patterns](https://github.com/chaitanyakasaraneni/udacity_deeplearning_nanodegee/tree/master/project-bikesharing)
 #### Convolutional Neural Networks
